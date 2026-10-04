@@ -1,0 +1,9 @@
+{
+  "schema": 1,
+  "ios": {
+    "latest": "1.0",
+    "min": "1.0",
+    "enforceAt": null,
+    "url": "https://apps.apple.com/app/id6806730925"
+  }
+}
